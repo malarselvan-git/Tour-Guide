@@ -1,0 +1,91 @@
+.top{
+    
+    display: flex;
+     justify-content: space-between ;
+    margin-right:400px;
+    margin-left: 400px;
+    
+  
+}
+.top select{
+    border: none;
+}
+.img{
+    margin-left:380px;
+}
+
+
+.content{
+    margin-left: 350px;
+    margin-right: 370px;
+    font-size: 20px;
+    line-height: 30px;
+    
+   
+}
+.gi{
+    text-align: center;
+    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+a{
+    color: brown;
+    font-style: oblique;
+    
+}
+.list{
+    list-style-type: square;
+   
+}
+.new{
+    text-align: center;
+}
+.icon{
+    display: flex;
+    letter-spacing: 15px;
+    
+}
+
+.last{
+    display: flex;
+    height: 200px;
+    justify-content: space-between;
+    border-color: white;
+}
+
+.final img{
+    background-color: rgb(34, 31, 31);
+    height: 70px;width: 75px;
+   margin: 0; padding: 0;
+  
+
+}
+
+.final-list{
+    list-style-type:none ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+    color: white;
+    margin-left: 300px;
+    letter-spacing: 20px;
+}
+
+.final{
+    display: flex;
+    align-items: center;
+    background-color: rgb(34, 31, 31); 
+    height: 150px;   
+}
+.final p{
+    color: white;
+}
+
+.final img,.final p{
+    margin-left: 100px;
+}
+.main{
+    font-family:  sans-serif;
+    
+}
